@@ -6,7 +6,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.5
 	github.com/buger/goterm v1.0.4
 	github.com/cnabio/cnab-to-oci v0.3.6
-	github.com/compose-spec/compose-go v1.5.0
+	github.com/compose-spec/compose-go v1.5.1
 	github.com/containerd/console v1.0.3
 	github.com/containerd/containerd v1.6.8
 	github.com/distribution/distribution/v3 v3.0.0-20220729163034-26163d82560f
@@ -15,7 +15,7 @@ require (
 	github.com/docker/cli-docs-tool v0.5.0
 	github.com/docker/docker v20.10.17+incompatible
 	github.com/docker/go-connections v0.4.0
-	github.com/docker/go-units v0.4.0
+	github.com/docker/go-units v0.5.0
 	github.com/golang/mock v1.6.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-version v1.6.0
